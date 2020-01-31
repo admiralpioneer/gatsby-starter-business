@@ -34,7 +34,7 @@ offerings:
         Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam consectetur congue.
 
 testimonials:
-  - author: Vaibhav Sharma
+  - author: Tyler Durden
     quote: >-
       Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed diam luctus pretium. 
       Sed quis egestas libero. Vestibulum nec venenatis ligula. 
